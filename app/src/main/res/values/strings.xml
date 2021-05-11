@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Food Donate</string>
+    <string name="register" />
+    <string name="phone_number" />
+    <string name="enter_your_name" />
+    <string name="address">Address</string>
+</resources>
